@@ -1,0 +1,26 @@
+{
+  "id": "bismarck",
+  "name": "Otto von Bismarck",
+  "born": "1815-04-01",
+  "died": "1898-07-30",
+  "roles": ["Prussian Minister-President", "German Chancellor", "Federal Chancellor of the German Empire"],
+  "life_arc": [
+    {"period":"1815-1847","phase":"Formation","notes":"Born into Prussian landed nobility; studied law; entered Prussian politics and developed a strongly conservative, monarchist worldview."},
+    {"period":"1847-1862","phase":"Political apprenticeship","notes":"Served in the Prussian Landtag and diplomatic posts. His diplomacy in Frankfurt, St Petersburg and Paris broadened his understanding of European power politics."},
+    {"period":"1862-1871","phase":"Unification through controlled conflict","notes":"Appointed Prussian Minister-President in 1862. Used military reform, diplomacy, limited wars and coalition management to strengthen Prussia and achieve German unification."},
+    {"period":"1871-1890","phase":"Imperial consolidation","notes":"As Chancellor, shifted from expansion to preservation: alliance management, isolation of France, conservative domestic policy, economic/social reforms and crisis prevention."},
+    {"period":"1890-1898","phase":"Dismissal and legacy","notes":"Dismissed by Kaiser Wilhelm II in 1890 after strategic and personal conflict. Spent retirement writing memoirs and influencing public memory of his statecraft."}
+  ],
+  "decision_lens": {
+    "primary_strengths":["power-balancing","coalition management","sequencing","strategic patience","use of limited force","reading constraints"],
+    "typical_failure_modes":["overconfidence in personal control of the system","authoritarian domestic politics","institutional fragility after his departure","managing complexity through elite bargains rather than broad legitimacy"],
+    "core_principles_reconstructed":["Treat power relationships as constraints before pursuing ideals.","Use limited objectives and preserve an exit route.","Avoid fighting multiple major opponents simultaneously.","After a strategic victory, consolidate rather than automatically seek another victory."]
+  },
+  "sources":[
+    "Bismarck Foundation archive and collections",
+    "Otto von Bismarck, Gedanken und Erinnerungen (Memoirs)",
+    "Lothar Gall, Bismarck: The White Revolutionary",
+    "Jonathan Steinberg, Bismarck: A Life",
+    "Encyclopaedia Britannica, Otto von Bismarck"
+  ]
+}
