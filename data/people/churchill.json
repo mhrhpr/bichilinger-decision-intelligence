@@ -1,0 +1,27 @@
+{
+  "id": "churchill",
+  "name": "Winston Churchill",
+  "born": "1874-11-30",
+  "died": "1965-01-24",
+  "roles": ["Member of Parliament", "First Lord of the Admiralty", "Chancellor of the Exchequer", "Prime Minister", "Leader of the Opposition"],
+  "life_arc": [
+    {"period":"1874-1900","phase":"Formation","notes":"Born into the aristocratic Spencer-Churchill family. Military service, journalism and experience in imperial conflicts shaped his appetite for action and public argument."},
+    {"period":"1900-1914","phase":"Political ascent","notes":"Entered Parliament, crossed party lines, held major offices and developed a reputation for forceful reform and strategic advocacy."},
+    {"period":"1915-1929","phase":"Setback and recovery","notes":"The Gallipoli disaster damaged his reputation. He returned to government, served in wartime and treasury roles, and rebuilt political influence."},
+    {"period":"1930-1939","phase":"Wilderness and warning","notes":"Outside government for much of the decade. Campaigned against appeasement and warned publicly about German rearmament and Hitler's expansion."},
+    {"period":"1940-1945","phase":"Wartime leadership","notes":"Became Prime Minister during the collapse of France. Rejected negotiated surrender, mobilized political and public support, coordinated Britain with the United States and Soviet Union, and drove grand strategy through the coalition war."},
+    {"period":"1945-1965","phase":"Postwar statesman","notes":"Lost the 1945 election, returned as Prime Minister in 1951, and remained a major voice on European security, the Anglo-American relationship and the Cold War."}
+  ],
+  "decision_lens": {
+    "primary_strengths":["will under pressure","strategic communication","coalition leadership","historical framing","risk acceptance","political mobilization"],
+    "typical_failure_modes":["operational overreach","romanticization of offensive action","high tolerance for costly military experiments","imperial assumptions","polarizing rhetoric"],
+    "core_principles_reconstructed":["Preserve national agency when defeat would create worse strategic conditions.","Narrative is an instrument of strategy, not merely presentation.","Coalitions require a shared purpose while tolerating divergent interests.","When uncertainty is high, maintain options rather than surrendering initiative prematurely."]
+  },
+  "sources":[
+    "International Churchill Society and Churchill Documents",
+    "The official biography by Randolph Churchill and Martin Gilbert",
+    "Martin Gilbert, Winston S. Churchill, 8-volume biography",
+    "Winston Churchill, The Second World War",
+    "Encyclopaedia Britannica, Winston Churchill"
+  ]
+}
