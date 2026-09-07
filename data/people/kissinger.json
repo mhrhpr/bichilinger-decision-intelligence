@@ -1,0 +1,27 @@
+{
+  "id": "kissinger",
+  "name": "Henry A. Kissinger",
+  "born": "1923-05-27",
+  "died": "2023-11-29",
+  "roles": ["Academic and foreign-policy strategist", "National Security Advisor", "U.S. Secretary of State"],
+  "life_arc": [
+    {"period":"1923-1938","phase":"Formation in Germany","notes":"Born in Fürth, Germany, into a Jewish family. Experienced the rise of Nazism before emigrating to the United States."},
+    {"period":"1938-1954","phase":"Americanization and academic formation","notes":"Settled in the United States, served in the U.S. Army, became an American citizen and developed an academic career focused on international relations and strategic order."},
+    {"period":"1954-1968","phase":"Strategist outside government","notes":"Built influence through scholarship and policy networks, emphasizing balance of power, limited objectives, and the management of adversarial relationships."},
+    {"period":"1969-1974","phase":"Nixon foreign policy","notes":"Served as National Security Advisor and later Secretary of State. Central to the opening to China, détente with the Soviet Union, Vietnam negotiations and Middle East diplomacy."},
+    {"period":"1974-1977","phase":"Ford administration","notes":"Continued as Secretary of State and shaped U.S. responses to the Middle East, Europe, the Soviet Union and other Cold War crises."},
+    {"period":"1977-2023","phase":"Strategic elder statesman","notes":"Remained influential through books, advisory work and public commentary. His record remained highly consequential and controversial, especially regarding Vietnam, Cambodia, Chile and Cold War interventions."}
+  ],
+  "decision_lens": {
+    "primary_strengths":["balance-of-power reasoning","diplomatic sequencing","private negotiation","linkage across issues","great-power bargaining","long-horizon strategic framing"],
+    "typical_failure_modes":["elite-driven diplomacy","secrecy and limited transparency","underweighting domestic legitimacy and humanitarian costs","overconfidence in manageability of regional systems","controversial covert or coercive policies"],
+    "core_principles_reconstructed":["International order depends on workable balances, not only moral preferences.","Separate public positions from private bargaining when necessary to create room for agreement.","Use leverage and sequencing to alter the set of feasible outcomes.","Strategic stability may require dealing with imperfect partners rather than waiting for ideal ones."]
+  },
+  "sources":[
+    "Henry A. Kissinger Papers, University of Virginia",
+    "Henry Kissinger, Diplomacy",
+    "Henry Kissinger, White House Years",
+    "Niall Ferguson, Kissinger, 1923-1968",
+    "Encyclopaedia Britannica, Henry Kissinger"
+  ]
+}
