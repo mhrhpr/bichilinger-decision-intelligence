@@ -1,0 +1,7 @@
+{
+  "name":"Otto von Bismarck","birth":"1815-04-01","death":"1898-07-30","roles":["Prussian Minister-President (1862-1890)","German Chancellor (1871-1890)"],
+  "life_arc":[{"period":"1815-1847","phase":"Formation","events":"Prussian Junker aristocracy; law studies; entry into politics."},{"period":"1847-1862","phase":"Political ascent","events":"Parliamentary and diplomatic service; conservative-monarchical statecraft."},{"period":"1862-1871","phase":"Unification","events":"Minister-President; army reform crisis; Denmark, Austria and France conflicts; German unification."},{"period":"1871-1890","phase":"Empire management","events":"Chancellor; domestic conflict, social insurance, alliance management and European diplomacy."},{"period":"1890-1898","phase":"Exile and legacy","events":"Dismissed by Wilhelm II; political critic and elder statesman until death."}],
+  "decision_lens":["power balance","limited objectives","coalition management","controlled escalation","institutional durability","preventing encirclement"],
+  "failure_modes":["over-personalized statecraft","coercive domestic politics","high-risk escalation","weak succession institutionalization"],
+  "sources":["Bismarck Foundation","German History in Documents and Images","Jonathan Steinberg, Bismarck: A Life","Encyclopaedia Britannica"]
+}
